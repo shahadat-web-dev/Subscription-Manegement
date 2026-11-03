@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "GTV NigerToday",
+  title: "Subscription_Management",
   description: "Customer Management System",
 };
 
