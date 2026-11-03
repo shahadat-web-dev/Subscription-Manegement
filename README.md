@@ -1,4 +1,4 @@
-# GTV NigerToday — Customer & Subscription Management Dashboard
+#  Subscription Management Dashboard
 
 A modern, high-performance, and pixel-perfect SaaS frontend built with **Next.js (App Router)**, **React 19**, **TypeScript**, and **Tailwind CSS**.
 
